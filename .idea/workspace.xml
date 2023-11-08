@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3353c987-48dc-4a07-b251-a258f4f31739" name="Changes" comment="Started the project">
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="3353c987-48dc-4a07-b251-a258f4f31739" name="Changes" comment="Add verify functionality">
+      <change afterPath="$PROJECT_DIR$/src/model/FingerprintData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/BiometricController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/BiometricValidator.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/BiometricValidator.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/BiometricValidatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/BiometricValidatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Biometric.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +46,9 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;OverrideImplement.generate.javadoc&quot;: &quot;true&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
     &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
@@ -84,7 +90,12 @@
       <workItem from="1699444102840" duration="2713000" />
       <workItem from="1699446925499" duration="1826000" />
       <workItem from="1699448837058" duration="2828000" />
-      <workItem from="1699451803759" duration="3546000" />
+      <workItem from="1699451803759" duration="7598000" />
+      <workItem from="1699462488156" duration="1306000" />
+      <workItem from="1699463858734" duration="1150000" />
+      <workItem from="1699465061669" duration="489000" />
+      <workItem from="1699465597461" duration="946000" />
+      <workItem from="1699466591246" duration="411000" />
     </task>
     <task id="LOCAL-00001" summary="Started the project">
       <option name="closed" value="true" />
@@ -94,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699454939388</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removed unused files">
+      <option name="closed" value="true" />
+      <created>1699455553203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699455553203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,15 +133,22 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Started the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started the project" />
+    <MESSAGE value="Removed unused files" />
+    <MESSAGE value="Add verify functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add verify functionality" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/Launcher.java</url>
-          <line>47</line>
+          <line>45</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/utils/BiometricController.java</url>
+          <line>165</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
