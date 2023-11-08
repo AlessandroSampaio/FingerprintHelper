@@ -4,25 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3353c987-48dc-4a07-b251-a258f4f31739" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/GrFingerJava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FingerprintHelper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/GrFinger.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/GrFingerJava.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/GrFingerJava.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/references/pthreadVC2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/BiometricValidator.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/BiometricValidatorController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Launcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/Biometric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/LoggerToArea.java" afterDir="false" />
+    <list default="true" id="3353c987-48dc-4a07-b251-a258f4f31739" name="Changes" comment="Started the project">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -96,15 +84,37 @@
       <workItem from="1699444102840" duration="2713000" />
       <workItem from="1699446925499" duration="1826000" />
       <workItem from="1699448837058" duration="2828000" />
-      <workItem from="1699451803759" duration="2781000" />
+      <workItem from="1699451803759" duration="3546000" />
     </task>
+    <task id="LOCAL-00001" summary="Started the project">
+      <option name="closed" value="true" />
+      <created>1699454939387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699454939388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Started the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started the project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
