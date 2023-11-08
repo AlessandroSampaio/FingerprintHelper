@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GrFingerJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/references/GrFingerJava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
